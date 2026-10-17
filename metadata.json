@@ -1,0 +1,6 @@
+{
+  "name": "Zan-Gi — AI-Powered Social Universe",
+  "description": "Zan-Gi Android native app: Connect. Create. Imagine. Earn. AI-first social universe with Jetpack Compose Material 3 design, Bengali/English AI assistant, smart feed, creator studio, and configurable monetization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

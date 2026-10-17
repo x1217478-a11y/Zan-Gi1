@@ -1,0 +1,13 @@
+{
+  "creatorSharePct": 70,
+  "platformSharePct": 30,
+  "vatTaxRatePct": 2,
+  "vatTreatment": "platform_service_tax",
+  "minWithdrawalCents": 10000,
+  "dailyRewardedAdCap": 10,
+  "rewardedAdCooldownSeconds": 60,
+  "rewardedAdGrossCents": 50,
+  "rewardCoinsPerAd": 50,
+  "testMode": true,
+  "auditHistory": []
+}
